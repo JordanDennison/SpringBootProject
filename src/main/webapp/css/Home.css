@@ -1,0 +1,37 @@
+
+#main-body {
+    background-color: rgb(252, 222, 182);
+}
+
+#google-styling{
+    border-radius: 20px; 
+    text-align: center; 
+    width: 15%; 
+    margin-top: 10px;
+}
+
+#cards{
+    background-color: rgb(255, 180, 127); 
+    margin: 5px; 
+    padding: 5px;
+}
+
+#input-field{
+    border-radius: 20px; 
+    text-align: center; 
+    width: 30%; 
+    margin-top: 10px; 
+    align-content: center;
+}
+
+#login-button{
+    border-radius: 20px;
+    text-align: center; 
+    width: 15%; 
+    margin-top: 10px;
+}
+
+#form-column{
+    margin: 0 auto; 
+    text-align: center;
+}
